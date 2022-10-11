@@ -17,7 +17,7 @@ local UICorner_4 = Instance.new("UICorner")
 --Properties:
 
 MichealZombies.Name = "MichealZombies"
-MichealZombies.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+MichealZombies.Parent = game.CoreGui
 
 Main.Name = "Main"
 Main.Parent = MichealZombies
